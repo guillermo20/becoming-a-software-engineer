@@ -12,4 +12,6 @@
   
   we are not going to dive deeper into the subject here, but we are going to mention some of the skills (or at least the ones that i find most helpful) :
   
+  - *Communication*: Effective communication is key, our environment as software developers demands us (or at least most of the time) to work in groups/teams we have to learn how to transmit concise and concrete ideas, provide information, listen carefully to our peers. thus making this one of the most used skills in our field. 
   
+  - 
