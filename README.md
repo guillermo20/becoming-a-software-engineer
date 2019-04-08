@@ -31,6 +31,11 @@
   
     - Most known OOP patterns: Builder Pattern, Factory Pattern, Singletons, Delegation Pattern, Observer Pattern.
     
-    - Architectual patterns: this is more related to the way that we organize several pieces of code that handles different responsibilities -> Model-View-Controler, Model-View-Presenter, Model-View-Viewmodel, VIPER (View-Interactor-Presenter-Entity-Router)
+    - Architectual patterns: this is more related to the way that we organize several pieces of code that handles different responsibilities -> Model-View-Controler, Model-View-Presenter, Model-View-Viewmodel, VIPER (View-Interactor-Presenter-Entity-Router).
     
-    patterns are a subject of their own. we are not going to dig into their concepts, this is just a mere reference so we can start looking into them
+    patterns are a subject of their own. we are not going to dig into their concepts, this is just a mere reference so we can start looking into them.
+    
+  * **S.O.L.I.D.**: The S.O.L.I.D. programming principles were conceived by Robert C. Martin, better known as Uncle Bob. in an attempt of reducing the entropy that systems might gain over time. making the code more understandable, flexible and maintainable.
+  
+  
+  
