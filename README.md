@@ -27,4 +27,4 @@
   
   * **Know your programming paradigm**: wheather it is object-oriented, functional or structured. you need to dive deeper into the theory, concepts and practices of your programming language. for example since I'm a mobile applications developer, i work a lot with kotlin and swift which are object-oriented programming languages (of course they have some functional features but we mainly treat them as object-oriented) this forces me to know their OOP features. such as encapsulation, polymorphism, inheritance, abstractions, know the difference between a class and an object.
   
-  *
+  * **Design patterns**: okay they are several, maybe borderlines the *too much* spectrum but these patterns attempts to solve different problems and/or situations, I'm just gonna list the ones that I use the most
