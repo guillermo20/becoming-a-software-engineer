@@ -14,4 +14,4 @@
   
   - *Communication*: Effective communication is key, our environment as software developers demands us (or at least most of the time) to work in groups/teams we have to learn how to transmit concise and concrete ideas, provide information, listen carefully to our peers. thus making this one of the most used skills in our field. 
   
-  - 
+  - *Teamwork*: As we mentioned before, we (at some point) are going to be part of a large team. and that is why there is the need of working well with others. this doesn't mean that you have to agree with everyone else's ideas, yet having different points of views on the table will help us to build better software.
