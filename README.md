@@ -1,4 +1,4 @@
-# Becoming a Software Engineer
+# Becoming a better Software Engineer
 
   A short guide on how to improve your professional skills within the software engineering industry
 
