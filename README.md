@@ -19,3 +19,10 @@
   - *Problem solving*: This is related to your capability of solving critical problems (not only on a technical level). when approaching problems, we have to see them objectively even if it is one that we created our selves by accident. one thing to keep in mind is that we don't have to deal with such problems by ourselves. most situations would need a teamwork effort to solve them, is always better to ask for help to a coworker that can give you a different perspective to the problem from their point of view.
 
   - *Time management*: As a personal note, I'd say that this is one of the crucials. you have to be smart with your time management. this will allow you to organize your time and therefore make the best out of it.
+
+
+## Now to the good part
+
+  Most of the things that we learn throughout life are from experiences. And how do we gain experience on certains technical skills that are required to perform proficiently, consistently. we gain this knowledge from exposure, exposure to the tools, concepts and practices that will allow us to improve our skillset and thus allowing us to become better craftsmen of our profession. here I'm going to list some of the hard skills that any software engineer needs to become proficient at, in order to deliver high quality software:
+  
+  *
