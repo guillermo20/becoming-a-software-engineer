@@ -38,4 +38,6 @@
   * **S.O.L.I.D.**: The S.O.L.I.D. programming principles were conceived by Robert C. Martin, better known as Uncle Bob. in an attempt of reducing the entropy that systems might gain over time. making the code more understandable, flexible and maintainable.
   
   
+  * **Unit Testing**: whether you develop through a test driven technique or you write your test at the end of the implementation of the methods, this is a very common way to add another layer of validation to the code we are implmenting. in fact most of the architectual patterns that we mentioned before were thought in order to let us test easier our code.
+  
   
