@@ -27,4 +27,10 @@
   
   * **Know your programming paradigm**: wheather it is object-oriented, functional or structured. you need to dive deeper into the theory, concepts and practices of your programming language. for example since I'm a mobile applications developer, i work a lot with kotlin and swift which are object-oriented programming languages (of course they have some functional features but we mainly treat them as object-oriented) this forces me to know their OOP features. such as encapsulation, polymorphism, inheritance, abstractions, know the difference between a class and an object.
   
-  * **Design patterns**: okay they are several, maybe borderlines the *too much* spectrum but these patterns attempts to solve different problems and/or situations, I'm just gonna list the ones that I use the most
+  * **Design patterns**: okay they are several, maybe borderlines the *too much* spectrum but these patterns attempts to solve different problems and/or situations, their main purpose is to add order and intention to our code, so for example if we see a builder pattern, we already now that the author of that piece of code only wants us to interact to the api through its builder, and not spend too much time trying to figure out what is the purpuse of that piece of code. So I'm just gonna list the ones that I use the most:
+  
+    - Most known OOP patterns: Builder Pattern, Factory Pattern, Singletons, Delegation Pattern, Observer Pattern.
+    
+    - Architectual patterns: this is more related to the way that we organize several pieces of code that handles different responsibilities -> Model-View-Controler, Model-View-Presenter, Model-View-Viewmodel, VIPER (View-Interactor-Presenter-Entity-Router)
+    
+    patterns are a subject of their own. we are not going to dig into their concepts, this is just a mere reference so we can start looking into them
