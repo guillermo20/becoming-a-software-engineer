@@ -16,4 +16,6 @@
   
   - *Teamwork*: As we mentioned before, we (at some point) are going to be part of a large team. and that is why there is the need of working well with others. this doesn't mean that you have to agree with everyone else's ideas, yet having different points of views on the table will help us to build better software.
 
-  - *Problem solving*: 
+  - *Problem solving*: This is related to your capability of solving critical problems (not only on a technical level). when approaching problems, we have to see them objectively even if it is one that we created our selves by accident. one thing to keep in mind is that we don't have to deal with such problems by ourselves. most situations would need a teamwork effort to solve them, is always better to ask for help to a coworker that can give you a different perspective to the problem from their point of view.
+
+  - *Time management*: As a personal note, I'd say that this is one of the crucials. you have to be smart with your time management. this will allow you to organize your time and therefore make the best out of it.
