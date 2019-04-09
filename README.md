@@ -37,12 +37,11 @@
     
   * **S.O.L.I.D.**: The S.O.L.I.D. programming principles were conceived by Robert C. Martin, better known as Uncle Bob. in an attempt of reducing the entropy that systems might gain over time. making the code more understandable, flexible and maintainable.
   
+  * **Unit Testing**: Whether you develop through a test driven technique or you write your test at the end of the implementation of the methods, this is a very common way to add another layer of validation to the code we are implmenting. in fact most of the architectual patterns that we mentioned before were thought in order to let us test easier our code.
   
-  * **Unit Testing**: whether you develop through a test driven technique or you write your test at the end of the implementation of the methods, this is a very common way to add another layer of validation to the code we are implmenting. in fact most of the architectual patterns that we mentioned before were thought in order to let us test easier our code.
+  * **Code Review**: This is one of the most important aspects one can develop. having the practice of analyzing and understanding someone else's code is beneficial to us. it can expose us to new techniques and concepts. which would allow us to be more critical about our code and in time be critical about others code. keep in mind that code reviewing should be open. there are no dumb questions. we expose the code and is in everybody's intention to make it better. 
   
-  
-  
-## References:
+  * **Coding Style Conventions**: Following coding conventions makes our code more understandable for others, making the proccess of code reviewing or even debugging faster. there are severeal coding conventions that apply to different languages, techniques and situations. the best approach is to have your team to agree on following one coding convention.
 
   * [Fragmented Podcast](https://fragmentedpodcast.com)
   
