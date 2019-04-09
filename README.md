@@ -20,7 +20,7 @@
 
   - **Time management**: As a personal note, I'd say that this is one of the crucials. you have to be smart with your time management. this will allow you to organize your time and therefore make the best out of it.
 
-
+  
 ## Now to the good part
 
   Most of the things that we learn throughout life are from experiences. And how do we gain experience on certains technical skills that are required to perform proficiently, consistently. we gain this knowledge from exposure, exposure to the tools, concepts and practices that will allow us to improve our skillset and thus allowing us to become better craftsmen of our profession. here I'm going to list some of the hard skills that any software engineer needs to become proficient at, in order to deliver high quality software:
@@ -42,7 +42,10 @@
   * **Code Review**: This is one of the most important aspects one can develop. having the practice of analyzing and understanding someone else's code is beneficial to us. it can expose us to new techniques and concepts. which would allow us to be more critical about our code and in time be critical about others code. keep in mind that code reviewing should be open. there are no dumb questions. we expose the code and is in everybody's intention to make it better. 
   
   * **Coding Style Conventions**: Following coding conventions makes our code more understandable for others, making the proccess of code reviewing or even debugging faster. there are severeal coding conventions that apply to different languages, techniques and situations. the best approach is to have your team to agree on following one coding convention.
-
+  
+  * **Contribute to OSS**: One best practice for software developers is to contribute to OSS. Contributing to open source software will allow you to develop most of the skills listed above. since most of the popular projects have very rigorous steps and standards that you need to follow in order to contribute. the best way to start contributing to a public repo i would say is to start easy. just pick some public repo here on github, and start doing some unit testing. or bug reporting.
+  
+  
 ## References 
 
   * [Fragmented Podcast](https://fragmentedpodcast.com)
