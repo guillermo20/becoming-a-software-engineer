@@ -56,7 +56,7 @@
   
 ## Books: 
 
-  * [Effective Java](https://www.amazon.com/Effective-Java-Joshua-Bloch/dp/0134685997/ref=sr_1_1?keywords=effective+java&qid=1554815819&s=books&sr=1-1)
+  * [Effective Java by Joshua Bloch](https://www.amazon.com/Effective-Java-Joshua-Bloch/dp/0134685997/ref=sr_1_1?keywords=effective+java&qid=1554815819&s=books&sr=1-1)
 
   * [Clean Code by Robert C. Martin](https://www.amazon.com/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882/ref=sr_1_1?keywords=clean+code&linkCode=sl2&linkId=b89eb04c3e02b905cf6d809993fa0fb8&qid=1554814882&s=books&sr=1-1)
   
