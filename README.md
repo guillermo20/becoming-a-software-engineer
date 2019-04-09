@@ -73,9 +73,9 @@
 
   * [Effective Java by Joshua Bloch](https://www.amazon.com/Effective-Java-Joshua-Bloch/dp/0134685997/ref=sr_1_1?keywords=effective+java&qid=1554815819&s=books&sr=1-1) : Tips and concepts that will help you improve your skills on the Java programming language.
 
-  * [Clean Code by Robert C. Martin](https://www.amazon.com/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882/ref=sr_1_1?keywords=clean+code&linkCode=sl2&linkId=b89eb04c3e02b905cf6d809993fa0fb8&qid=1554814882&s=books&sr=1-1)
+  * [Clean Code by Robert C. Martin](https://www.amazon.com/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882/ref=sr_1_1?keywords=clean+code&linkCode=sl2&linkId=b89eb04c3e02b905cf6d809993fa0fb8&qid=1554814882&s=books&sr=1-1) : A guide on how we can write code that humans can understand.
   
-  * [Design Patterns book](https://www.amazon.com/Design-Patterns-Elements-Reusable-Object-Oriented/dp/0201633612/ref=as_li_ss_tl?s=books&ie=UTF8&qid=1491385520&sr=1-1&keywords=design+patterns+elements+of+reusable+object-oriented+software&linkCode=sl1&tag=donnfelker-20&linkId=fcadc148d0c0ee2145243c6c8af93a27)
+  * [Design Patterns book](https://www.amazon.com/Design-Patterns-Elements-Reusable-Object-Oriented/dp/0201633612/ref=as_li_ss_tl?s=books&ie=UTF8&qid=1491385520&sr=1-1&keywords=design+patterns+elements+of+reusable+object-oriented+software&linkCode=sl1&tag=donnfelker-20&linkId=fcadc148d0c0ee2145243c6c8af93a27) : List of the most used design patterns, their pros an cons.
   
-  * [Soft Skils by John Sonmez](https://www.amazon.com/Soft-Skills-software-developers-manual/dp/1617292397/ref=sr_1_2?keywords=john+somnez&qid=1554825866&s=gateway&sr=8-2)
+  * [Soft Skils by John Sonmez](https://www.amazon.com/Soft-Skills-software-developers-manual/dp/1617292397/ref=sr_1_2?keywords=john+somnez&qid=1554825866&s=gateway&sr=8-2) : Useful book about Soft skills. 
   
