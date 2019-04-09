@@ -44,8 +44,15 @@
   
 ## References:
 
-  * S.O.L.I.D. programming principles: https://scotch.io/bar-talk/s-o-l-i-d-the-first-five-principles-of-object-oriented-design
+  * [S.O.L.I.D. programming principles](https://scotch.io/bar-talk/s-o-l-i-d-the-first-five-principles-of-object-oriented-design)
   
-  * Clean Architecture: https://blog.cleancoder.com/uncle-bob/2012/08/13/the-clean-architecture.html
+  * [Clean Architecture](https://blog.cleancoder.com/uncle-bob/2012/08/13/the-clean-architecture.html)
   
-  * 
+  
+## Books: 
+
+  * [Clean Code by Robert C. Martin](https://www.amazon.com/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882/ref=sr_1_1?keywords=clean+code&linkCode=sl2&linkId=b89eb04c3e02b905cf6d809993fa0fb8&qid=1554814882&s=books&sr=1-1)
+  
+  * [Design Patterns book](https://www.amazon.com/Design-Patterns-Elements-Reusable-Object-Oriented/dp/0201633612/ref=as_li_ss_tl?s=books&ie=UTF8&qid=1491385520&sr=1-1&keywords=design+patterns+elements+of+reusable+object-oriented+software&linkCode=sl1&tag=donnfelker-20&linkId=fcadc148d0c0ee2145243c6c8af93a27)
+  
+  
