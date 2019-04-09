@@ -29,7 +29,7 @@
   
   * **Design patterns**: okay they are several, maybe borderlines the *too much* spectrum but these patterns attempts to solve different problems and/or situations, their main purpose is to add order and intention to our code, so for example if we see a builder pattern, we already now that the author of that piece of code only wants us to interact to the api through its builder, and not spend too much time trying to figure out what is the purpuse of that piece of code. So I'm just gonna list the ones that I use the most:
   
-    - Most known OOP patterns: Builder Pattern, Factory Pattern, Singletons, Delegation Pattern, Observer Pattern.
+    - Most known OOP patterns: Builder Pattern, Factory Pattern, Singletons, Delegation Pattern, Observer Pattern, Repository pattern.
     
     - Architectual patterns: this is more related to the way that we organize several pieces of code that handles different responsibilities -> Model-View-Controler, Model-View-Presenter, Model-View-Viewmodel, VIPER (View-Interactor-Presenter-Entity-Router).
     
@@ -41,3 +41,11 @@
   * **Unit Testing**: whether you develop through a test driven technique or you write your test at the end of the implementation of the methods, this is a very common way to add another layer of validation to the code we are implmenting. in fact most of the architectual patterns that we mentioned before were thought in order to let us test easier our code.
   
   
+  
+## References:
+
+  * S.O.L.I.D. programming principles: https://scotch.io/bar-talk/s-o-l-i-d-the-first-five-principles-of-object-oriented-design
+  
+  * Clean Architecture: https://blog.cleancoder.com/uncle-bob/2012/08/13/the-clean-architecture.html
+  
+  * 
