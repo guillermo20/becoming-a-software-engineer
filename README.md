@@ -46,6 +46,16 @@
   * **Contribute to OSS**: One best practice for software developers is to contribute to OSS. Contributing to open source software will allow you to develop most of the skills listed above. since most of the popular projects have very rigorous steps and standards that you need to follow in order to contribute. the best way to start contributing to a public repo i would say is to start easy. just pick some public repo here on github, and start doing some unit testing. or bug reporting.
   
   
+## Tips and Tricks
+
+  * **Find a resourceful way to learn new things**: learning new things can become cumbersome, and there is a lot of stuff out there, lately for me I have two main resources of information, Podcasts and official blogs/docs from apple and google regarding Mobile App Development.
+  
+  * **Apply new concepts with basic examples**: When learning a new topic, first try to internalize the subject. then try to apply the new concept into a simple example.
+  
+  * **Always finish what you started**: with this is that if you are going to 
+  
+  * **You can't know everything**:
+  
 ## References 
 
   * [Fragmented Podcast](https://fragmentedpodcast.com)
