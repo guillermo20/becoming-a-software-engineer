@@ -77,4 +77,5 @@
   
   * [Design Patterns book](https://www.amazon.com/Design-Patterns-Elements-Reusable-Object-Oriented/dp/0201633612/ref=as_li_ss_tl?s=books&ie=UTF8&qid=1491385520&sr=1-1&keywords=design+patterns+elements+of+reusable+object-oriented+software&linkCode=sl1&tag=donnfelker-20&linkId=fcadc148d0c0ee2145243c6c8af93a27)
   
+  * [Soft Skils by John Sonmez](https://www.amazon.com/Soft-Skills-software-developers-manual/dp/1617292397/ref=sr_1_2?keywords=john+somnez&qid=1554825866&s=gateway&sr=8-2)
   
