@@ -43,6 +43,8 @@
   
   * **Coding Style Conventions**: Following coding conventions makes our code more understandable for others, making the proccess of code reviewing or even debugging faster. there are severeal coding conventions that apply to different languages, techniques and situations. the best approach is to have your team to agree on following one coding convention.
 
+## References 
+
   * [Fragmented Podcast](https://fragmentedpodcast.com)
   
   * [Inside iOS Dev Podcast](http://insideiosdev.com/)
