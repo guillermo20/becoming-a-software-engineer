@@ -4,7 +4,7 @@
 
 ## Introduction
   
-  On this article we will talk about some of the habits and good practices that are important for your professional performance and improvement of your skills, whether you are starting your journey or even if you are an already experienced software develope.
+  On this article we will talk about some of the habits and good practices that are important for your professional performance and improvement of your skills, whether you are starting your journey or even if you are an already experienced software developer.
   
 ## Talking about the boring but yet important stuff.
 
@@ -55,6 +55,8 @@
   * **Apply new concepts with basic examples**: When learning a new topic, first try to internalize the subject. then try to apply the new concept into a simple example.
   
   * **Always finish what you started**: This is more of a reference to a personal habit, consider this cicles are meant to be completed at some point, even if it takes you years to accomplish a personal goal, it is better for you to push yourself to complete them, you will find ease of mind by doing so.
+  
+  * **Don't be shy**: Some people are way too intimidated (or proud) to ask for help rememember that we as software engineers make best decisions by actively discuss issues, approaches, ideas. so if you find yourself stuck. just ask your co-workers for help.
   
   * **You can't know everything**: I know that this might seems overwhelming regarding all the information that was listed here, (in fact this is just the tip of the iceberg) internalizing all of this would take years, that is why you have to take it one step at a time. pick a subject study it well. and then move to the other one. don't try to understand everything at once.
   
